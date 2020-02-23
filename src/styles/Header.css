@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,.1);
+}
+.title-header {
+    height: 60px;
+    line-height: 60px;
+    font-family: serif;
+    font-size: 30px;
+    color: #9b9b9b;
+    margin-left: 150px;
+}
+.title-header:hover {
+    text-decoration: none;
+    color: #3c74b8;
+}
+.navigation {
+    margin: 0 auto;
+    margin-right: 100px;
+}
+.navigation ul {
+    display: inline-flex;
+    margin-top: 20px;
+}
+.navigation li {
+    padding-right: 35px;
+    list-style: none;
+}
+.navigation li a {
+    font-weight: 700;
+    font-family: monospace;
+    color: #5488c7;
+}
+.navigation li a:hover {
+    text-decoration: none;
+    color: #3c74b8;
+}

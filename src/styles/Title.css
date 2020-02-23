@@ -1,0 +1,12 @@
+.title-search {
+    display: flex;
+}
+.title-link {
+    margin-top: 20px;
+    font-family: serif;
+    font-size: 30px;
+    color: #5488c7;        
+}
+.title-link:hover {
+    text-decoration: none;
+}

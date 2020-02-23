@@ -1,0 +1,12 @@
+.footer {
+    width: 100%;
+    height: 80px;
+    background: #0b1a33!important;
+    color: #dbe3e8;
+    /* position: absolute; */
+    /* bottom: 0px; */
+    margin-bottom: 0px;
+}
+.footer p {
+    line-height: 70px;
+}
